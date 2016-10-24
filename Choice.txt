@@ -1,0 +1,7 @@
+#Descriptive Statistics.
+#1. HoursPerWeek
+describeBy(MyResearch$HoursPerWeek, MyResearch$Choice)
+
+ Choice | n | mean | sd | median 
+ --- | --- | --- | --- | ---   
+ first | 79 | 8.52 | 8 | 6 
