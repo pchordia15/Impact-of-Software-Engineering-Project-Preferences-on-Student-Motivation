@@ -204,7 +204,7 @@ describeBy(MyResearch$PostMaintainFOSS, MyResearch$Choice)
 
  | Choice | n   | mean | sd   | median |
  | ------ | --- | ---- | ---- | ------ |   
- | first  | 32  | 3.56 | 0.95 | 3.58   |
+ | first  | 32  | 3.56 | 0.95 | 3      |
  | second | 2   | 3.5  | 0.71 | 3.5    |
  | third  | 0   | NaN  | NA   | NA     |
  | none   | 2   | 4.5  | 0.71 | 4.5    |
@@ -214,7 +214,7 @@ describeBy(MyResearch$PostDescribeDrawbackBenefits, MyResearch$Choice)
 
  | Choice | n   | mean | sd   | median |
  | ------ | --- | ---- | ---- | ------ |   
- | first  | 31  | 3.77 | 0.99 | 3.88   |
+ | first  | 31  | 3.77 | 0.99 | 4      |
  | second | 2   | 3.5  | 0.71 | 3.5    |
  | third  | 0   | NaN  | NA   | NA     |
  | none   | 2   | 4.5  | 0.71 | 4.5    |
